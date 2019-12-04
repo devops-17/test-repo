@@ -1,2 +1,2 @@
 Author Name: Vishal Shetty
-Email: vishal@attainu.com
+Skills: React JS Node js
